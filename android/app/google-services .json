@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824923730444",
+    "project_id": "shopping-base-f916a",
+    "storage_bucket": "shopping-base-f916a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824923730444:android:87877c27c49ec37c517429",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWrdAFEKbAIKyyQ6-ThpttHRs0Ij_Hbpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
